@@ -1,0 +1,9 @@
+.nav-wrapper {
+    background-color: #0e2a55;
+}
+
+.nav-wrapper  li .material-icons {
+    padding-right:15px;
+    color: #f9f3ec;
+    font-size: 24px;
+}
